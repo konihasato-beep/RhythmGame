@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="a_maru.png">
+<SubTexture name="a_maru a_maru0000" x="2697" y="1164" width="70" height="70" frameX="-907" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0001" x="2697" y="1164" width="70" height="70" frameX="-907" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0002" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0003" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0004" x="2697" y="1164" width="70" height="70" frameX="-907" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0005" x="2697" y="1164" width="70" height="70" frameX="-907" frameY="-493" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0006" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0007" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0008" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0009" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0010" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0011" x="0" y="1080" width="388" height="389" frameX="-768" frameY="-352" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0012" x="388" y="1080" width="388" height="389" frameX="-756" frameY="-339" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0013" x="1166" y="1469" width="389" height="388" frameX="-774" frameY="-349" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0014" x="1920" y="0" width="388" height="388" frameX="-762" frameY="-344" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0015" x="1920" y="388" width="388" height="388" frameX="-777" frameY="-348" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0016" x="776" y="1080" width="388" height="389" frameX="-761" frameY="-345" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0017" x="1920" y="776" width="388" height="388" frameX="-766" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0018" x="0" y="1858" width="389" height="388" frameX="-762" frameY="-344" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0019" x="1920" y="1164" width="388" height="388" frameX="-766" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0020" x="389" y="1858" width="389" height="388" frameX="-775" frameY="-348" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0021" x="778" y="1858" width="388" height="388" frameX="-766" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0022" x="1164" y="1080" width="389" height="389" frameX="-763" frameY="-344" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0023" x="1166" y="1858" width="388" height="388" frameX="-766" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0024" x="0" y="1469" width="389" height="389" frameX="-772" frameY="-347" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0025" x="389" y="1469" width="389" height="389" frameX="-772" frameY="-347" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0026" x="1554" y="1858" width="388" height="388" frameX="-766" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0027" x="2308" y="0" width="389" height="388" frameX="-763" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0028" x="2308" y="388" width="389" height="388" frameX="-770" frameY="-347" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0029" x="2308" y="776" width="389" height="388" frameX="-771" frameY="-347" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0030" x="2308" y="1164" width="388" height="388" frameX="-770" frameY="-347" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0031" x="2308" y="1552" width="388" height="388" frameX="-766" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0032" x="0" y="2246" width="389" height="388" frameX="-764" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0033" x="389" y="2246" width="389" height="388" frameX="-770" frameY="-347" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0034" x="778" y="2246" width="389" height="388" frameX="-769" frameY="-347" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0035" x="778" y="1469" width="388" height="389" frameX="-768" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0036" x="1167" y="2246" width="388" height="388" frameX="-766" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0037" x="1555" y="2246" width="388" height="388" frameX="-765" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0038" x="1943" y="2246" width="388" height="388" frameX="-765" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0039" x="2697" y="0" width="389" height="388" frameX="-767" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0040" x="2697" y="388" width="388" height="388" frameX="-767" frameY="-346" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_maru a_maru0041" x="2697" y="776" width="388" height="388" frameX="-766" frameY="-346" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="player_up.png">
+<SubTexture name="player_up player_up0000" x="388" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0001" x="0" y="197" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0002" x="0" y="0" width="194" height="197" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0003" x="194" y="0" width="194" height="197" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0004" x="194" y="197" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0005" x="388" y="197" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0006" x="582" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0007" x="582" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0008" x="0" y="391" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0009" x="194" y="391" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0010" x="388" y="391" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0011" x="582" y="391" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0012" x="776" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0013" x="776" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0014" x="776" y="388" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0015" x="0" y="585" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="player_up player_up0016" x="194" y="585" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

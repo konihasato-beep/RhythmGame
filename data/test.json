@@ -1,0 +1,16 @@
+{
+  "notes": [
+    { "time": 1870,  "dir": "left",  "sustain": 0 },
+    { "time": 2245,  "dir": "down",  "sustain": 0 },
+    { "time": 2620,  "dir": "up", "sustain": 0 },
+    { "time": 2995,  "dir": "right",  "sustain": 0 },
+    { "time": 3370,  "dir": "left",  "sustain": 0 },
+    { "time": 3745,  "dir": "down",  "sustain": 0 },
+    { "time": 4120,  "dir": "up", "sustain": 0 },
+
+    { "time": 4495,  "dir": "left",  "sustain": 0 },
+    { "time": 4495,  "dir": "down",  "sustain": 0 },
+    { "time": 4495,  "dir": "up", "sustain": 0 },
+    { "time": 4495,  "dir": "right",  "sustain": 0 }
+  ]
+}

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="migi.png">
+<SubTexture name="migi migi0000" x="0" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0001" x="194" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0002" x="0" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0003" x="194" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0004" x="388" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0005" x="388" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0006" x="0" y="388" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0007" x="194" y="388" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0008" x="388" y="388" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0009" x="582" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0010" x="582" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0011" x="582" y="388" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0012" x="0" y="582" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0013" x="194" y="582" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0014" x="388" y="582" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0015" x="582" y="582" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="migi migi0016" x="776" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

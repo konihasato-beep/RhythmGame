@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hidari_fail.png">
+<SubTexture name="hidari_fail hidari_fail0000" x="200" y="400" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0001" x="0" y="0" width="200" height="200" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0002" x="394" y="400" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0003" x="200" y="0" width="200" height="200" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0004" x="600" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0005" x="400" y="200" width="200" height="197" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0006" x="600" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0007" x="0" y="200" width="200" height="200" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0008" x="600" y="388" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0009" x="200" y="200" width="200" height="200" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0010" x="0" y="597" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0011" x="400" y="0" width="200" height="200" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0012" x="194" y="597" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0013" x="0" y="400" width="200" height="197" frameX="0" frameY="0" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0014" x="388" y="597" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0015" x="388" y="597" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari_fail hidari_fail0016" x="388" y="597" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

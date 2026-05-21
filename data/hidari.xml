@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hidari.png">
+<SubTexture name="hidari hidari0000" x="0" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0001" x="194" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0002" x="0" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0003" x="194" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0004" x="388" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0005" x="388" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0006" x="0" y="388" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0007" x="194" y="388" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0008" x="388" y="388" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0009" x="582" y="0" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0010" x="582" y="194" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0011" x="582" y="388" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0012" x="0" y="582" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0013" x="194" y="582" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0014" x="388" y="582" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0015" x="388" y="582" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+<SubTexture name="hidari hidari0016" x="388" y="582" width="194" height="194" frameX="-3" frameY="-3" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

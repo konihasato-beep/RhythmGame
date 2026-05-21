@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="a_hashira.png">
+<SubTexture name="a_hashira a_hashira0000" x="1920" y="0" width="9" height="1080" frameX="-956" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0001" x="1920" y="0" width="9" height="1080" frameX="-956" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0002" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0003" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0004" x="1920" y="0" width="9" height="1080" frameX="-956" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0005" x="1920" y="0" width="9" height="1080" frameX="-956" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0006" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0007" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0008" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0009" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0010" x="0" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0011" x="1920" y="0" width="9" height="1080" frameX="-956" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0012" x="1929" y="0" width="131" height="1080" frameX="-895" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0013" x="2060" y="0" width="193" height="1080" frameX="-864" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0014" x="0" y="1080" width="235" height="1080" frameX="-843" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0015" x="235" y="1080" width="267" height="1080" frameX="-827" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0016" x="502" y="1080" width="291" height="1080" frameX="-815" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0017" x="793" y="1080" width="309" height="1080" frameX="-806" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0018" x="1102" y="1080" width="325" height="1080" frameX="-798" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0019" x="1427" y="1080" width="337" height="1080" frameX="-792" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0020" x="1764" y="1080" width="345" height="1080" frameX="-788" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0021" x="2253" y="0" width="353" height="1080" frameX="-784" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0022" x="2606" y="0" width="357" height="1080" frameX="-782" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0023" x="2963" y="0" width="361" height="1080" frameX="-780" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0024" x="0" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0025" x="363" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0026" x="363" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0027" x="726" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0028" x="1089" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0029" x="1452" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0030" x="1815" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0031" x="2178" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0032" x="2541" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0033" x="2904" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0034" x="3324" y="0" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0035" x="3324" y="1080" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0036" x="3324" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0037" x="3687" y="0" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0038" x="3687" y="1080" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0039" x="3687" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0040" x="4050" y="0" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0041" x="4050" y="1080" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0042" x="4050" y="2160" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="a_hashira a_hashira0043" x="0" y="3240" width="363" height="1080" frameX="-779" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
